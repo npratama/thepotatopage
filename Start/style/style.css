@@ -1,0 +1,22 @@
+.font_plex_sans{
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.font_plex_sans_condensed{
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+
+.font_plex_serif{
+    font-family: 'IBM Plex Serif', serif;
+}
+
+.font_plex_mono{
+    font-family: 'IBM Plex Mono', monospace;
+}
+ 
+
+.jumbotron
+{
+    background-color: #3b3838
+    
+}
